@@ -25,10 +25,12 @@ module RailsSandbox
     # config.eager_load_paths << Rails.root.join("extras")
 
     config.generators do |g|
-      fixtures: false,
-      view_specs: false,
-      helper_specs: false,
-      routing_specs: false
+      g.text_framework :rspec,
+        fixtures: false,
+        view_specs: false,
+        helper_specs: false,
+        routing_specs: false
+      g.factory_bot false
     end
   end
 end
