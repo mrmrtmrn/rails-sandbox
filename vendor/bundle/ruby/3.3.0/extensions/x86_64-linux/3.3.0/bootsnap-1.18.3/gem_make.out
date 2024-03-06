@@ -1,0 +1,22 @@
+current directory: /home/mrmrtmrn/repository/github.com/mrmrtmrn/rails-sandbox/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.3/ext/bootsnap
+/home/mrmrtmrn/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/mrmrtmrn/repository/github.com/mrmrtmrn/rails-sandbox/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240306-32690-ewa9gk sitelibdir\=./.gem.20240306-32690-ewa9gk clean
+
+current directory: /home/mrmrtmrn/repository/github.com/mrmrtmrn/rails-sandbox/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240306-32690-ewa9gk sitelibdir\=./.gem.20240306-32690-ewa9gk
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/mrmrtmrn/repository/github.com/mrmrtmrn/rails-sandbox/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240306-32690-ewa9gk sitelibdir\=./.gem.20240306-32690-ewa9gk install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20240306-32690-ewa9gk/bootsnap
+
+current directory: /home/mrmrtmrn/repository/github.com/mrmrtmrn/rails-sandbox/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240306-32690-ewa9gk sitelibdir\=./.gem.20240306-32690-ewa9gk clean

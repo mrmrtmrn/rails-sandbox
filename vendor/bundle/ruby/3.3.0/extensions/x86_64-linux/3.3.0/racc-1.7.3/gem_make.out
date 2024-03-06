@@ -1,0 +1,18 @@
+current directory: /home/mrmrtmrn/repository/github.com/mrmrtmrn/rails-sandbox/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+/home/mrmrtmrn/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/mrmrtmrn/repository/github.com/mrmrtmrn/rails-sandbox/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240306-27843-48y5dp sitelibdir\=./.gem.20240306-27843-48y5dp clean
+
+current directory: /home/mrmrtmrn/repository/github.com/mrmrtmrn/rails-sandbox/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240306-27843-48y5dp sitelibdir\=./.gem.20240306-27843-48y5dp
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/mrmrtmrn/repository/github.com/mrmrtmrn/rails-sandbox/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240306-27843-48y5dp sitelibdir\=./.gem.20240306-27843-48y5dp install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240306-27843-48y5dp/racc
+
+current directory: /home/mrmrtmrn/repository/github.com/mrmrtmrn/rails-sandbox/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240306-27843-48y5dp sitelibdir\=./.gem.20240306-27843-48y5dp clean
